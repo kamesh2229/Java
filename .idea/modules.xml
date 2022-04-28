@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/AreaCalculator/AreaCalculator.iml" filepath="$PROJECT_DIR$/Java/AreaCalculator/AreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/BarkingDog/BarkingDog.iml" filepath="$PROJECT_DIR$/Java/BarkingDog/BarkingDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/CharDataType/CharDataType.iml" filepath="$PROJECT_DIR$/Java/CharDataType/CharDataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" filepath="$PROJECT_DIR$/Java/DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/DecimalComparator/DecimalComparator.iml" filepath="$PROJECT_DIR$/Java/DecimalComparator/DecimalComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/EqualSumChecker/EqualSumChecker.iml" filepath="$PROJECT_DIR$/Java/EqualSumChecker/EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/EqualityPrinter/EqualityPrinter.iml" filepath="$PROJECT_DIR$/Java/EqualityPrinter/EqualityPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/FloatDouble/FloatDouble.iml" filepath="$PROJECT_DIR$/Java/FloatDouble/FloatDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/FloatDoubleChallenge/FloatDoubleChallenge.iml" filepath="$PROJECT_DIR$/Java/FloatDoubleChallenge/FloatDoubleChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/Java/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/Java/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/Java/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/Java/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Learning/Learning.iml" filepath="$PROJECT_DIR$/Java/Learning/Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/MegaByteConverter/MegaByteConverter.iml" filepath="$PROJECT_DIR$/Java/MegaByteConverter/MegaByteConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/Java/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Methods/Methods.iml" filepath="$PROJECT_DIR$/Java/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/NoOfDaysInMonth/NoOfDaysInMonth.iml" filepath="$PROJECT_DIR$/Java/NoOfDaysInMonth/NoOfDaysInMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/NumberInWord/NumberInWord.iml" filepath="$PROJECT_DIR$/Java/NumberInWord/NumberInWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/OperatorChallenge/OperatorChallenge.iml" filepath="$PROJECT_DIR$/Java/OperatorChallenge/OperatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Operators/Operators.iml" filepath="$PROJECT_DIR$/Java/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/PlayingCat/PlayingCat.iml" filepath="$PROJECT_DIR$/Java/PlayingCat/PlayingCat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/PrimitiveChallenge/PrimitiveChallenge.iml" filepath="$PROJECT_DIR$/Java/PrimitiveChallenge/PrimitiveChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/Java/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/Java/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/String/String.iml" filepath="$PROJECT_DIR$/Java/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/SwitchStatement/SwitchStatement.iml" filepath="$PROJECT_DIR$/Java/SwitchStatement/SwitchStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/TeenNumberChecker/TeenNumberChecker.iml" filepath="$PROJECT_DIR$/Java/TeenNumberChecker/TeenNumberChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/YearsAndDays/YearsAndDays.iml" filepath="$PROJECT_DIR$/Java/YearsAndDays/YearsAndDays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/primitivedatatype/primitivedatatype.iml" filepath="$PROJECT_DIR$/Java/primitivedatatype/primitivedatatype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/untitled/untitled.iml" filepath="$PROJECT_DIR$/Java/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

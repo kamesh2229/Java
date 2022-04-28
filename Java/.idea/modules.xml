@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CharDataType/CharDataType.iml" filepath="$PROJECT_DIR$/CharDataType/CharDataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatDouble/FloatDouble.iml" filepath="$PROJECT_DIR$/FloatDouble/FloatDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatDoubleChallenge/FloatDoubleChallenge.iml" filepath="$PROJECT_DIR$/FloatDoubleChallenge/FloatDoubleChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorChallenge/OperatorChallenge.iml" filepath="$PROJECT_DIR$/OperatorChallenge/OperatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveChallenge/PrimitiveChallenge.iml" filepath="$PROJECT_DIR$/PrimitiveChallenge/PrimitiveChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primitivedatatype/primitivedatatype.iml" filepath="$PROJECT_DIR$/primitivedatatype/primitivedatatype.iml" />
+    </modules>
+  </component>
+</project>
